@@ -4,7 +4,7 @@ const stopTalk = document.querySelector('.stopTalk');
 const content = document.querySelector('.content');
 const openBrowser = document.querySelector('.openBrowser');
 
-const ataa = ['hello salah','hey good to see you again','hey salah i miss you'];
+const ataa = ['hello salah','hey good to see you again','hey salah i miss you','hey my love'];
 const greetings = ['Im good Asadiki and you','labas and you','leave me alone'];
 const Weathers = ['Weather is fine','You need to go out and see'];
 const mornings = ['good morning','good morning how are you'];
